@@ -1,0 +1,388 @@
+@media screen and (min-width: 768px) {
+    #nav-wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #education-div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #skills-flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 80%;
+        max-width: 100%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        margin-bottom: 5%;
+        justify-content: space-between;
+        height: auto;
+    }
+    #cert-flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 80%;
+        max-width: 100%;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: space-between;
+    }
+#foot-flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 60%;
+        max-width: 60%;
+        height: auto;
+        text-align: center;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+    }
+    #projects-flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: space-between;
+    }
+    #bottom-banner-flex {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 60%;
+        max-width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+    }
+    .skills-box {
+        flex: 1;
+        background-color: white;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #939598;
+        border-radius: 3%;
+        height: auto;
+        width: 30%;
+        max-width: 30%;
+        box-shadow: 0 4px 10px 2px #939598;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+    .cert-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 25%;
+        max-width: 25%;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+    .projects-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+    #testamonial-flex {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 90%;
+        max-width: 100%;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        height: auto;
+        justify-content: space-between;
+        font-family: open-sans;
+    }
+    .testamonial-box {
+        flex: 1;
+        background-color: white;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #939598;
+        border-radius: 3%;
+        height: auto;
+        width: 80%;
+        max-width: 80%;
+        box-shadow: 0 4px 10px 2px #939598;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+            .foot-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 10%;
+        max-width: 10%;
+        font-family: open-sans;
+    }
+    .bottom-banner-flex-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 60%;
+        max-width: 60%;
+        font-family: open-sans;
+    }
+}
+@media screen and (max-width: 768px) {
+    .skills-box {
+        flex: 1;
+        background-color: white;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #939598;
+        border-radius: 3%;
+        height: auto;
+        width: 80%;
+        max-width: 80%;
+        box-shadow: 0 4px 10px 2px #939598;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+        .foot-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 10%;
+        max-width: 80%;
+        font-family: open-sans;
+    }
+    .cert-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 80%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+    .projects-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+    iframe {
+        width: 100%;
+        height: auto;
+    }
+    .testamonial-box {
+        flex: 1;
+        background-color: white;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #939598;
+        border-radius: 3%;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+        box-shadow: 0 4px 10px 2px #939598;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
+}
+
+#photo-banner { 
+    background-color: #939598;
+    flex-wrap: wrap;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    }
+
+body {
+    margin: 0;
+    font-family: open-sans;
+    background-color: #8c43ff;
+}
+#navbar {
+    flex: 0 0 auto;
+    background-color: #8c43ff;
+    padding: 20px;
+    text-align: left;
+    color: white;
+}
+#flex-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+footer {
+    flex: 1;
+    width:100%;
+    max-width: 100%;
+    height: auto;
+    background-color: #8c43ff;
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+main {
+    flex: 1;
+    overflow: auto;
+}
+#navbar li {
+    display: inline-block;
+}
+#testamonials {
+    background-color: white;
+    padding: 50px;
+}
+#skills {
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-family: open-sans;
+}
+#projects {
+    background-color: #8c43ff;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+#etsu {
+    flex: 1;
+    background-image: url(ETSU.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#wgu {
+    flex: 1;
+    background-image: url(wgu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sprint {
+    flex: 2;
+    background-image: url(Sprint.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px;
+}
+#certs {
+    background-color: #939598;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+#profile-pic {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+#nav-box1 {
+    flex: 1;
+    text-align: center;
+}
+#nav-box2 {
+    flex: 2;
+    text-align: center;
+    font-family: open-sans;
+}
+#nav-box3 {
+    flex: 1;
+    text-align: center;
+    font-family: open-sans;
+}
+.work-edu-box {
+    display: block;
+    background-color: white;
+    color: black;
+    border-radius: 10%;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .7;
+    text-align: center;
+}
+h1 {
+    margin-top: 40px;
+}
+#hello {
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 25%;
+}
+.purple-font {
+    color: #8c43ff;
+    font-size: 18px;
+}
+.skills-box ul {
+    list-style-position: inside;
+    text-indent: -45px;
+}
+.skills-box li {
+    list-style-type: none;
+}
+.testamonial-box img {
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.testamonial-box p {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
