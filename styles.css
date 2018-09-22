@@ -111,6 +111,18 @@
         margin-right: auto;
         font-family: open-sans;
     }
+    .blog-box {
+        flex: 1;
+        color: white;
+        text-align: center;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: open-sans;
+    }
     #testamonial-flex {
         display: flex;
         flex-direction: column;
@@ -301,6 +313,12 @@ main {
 }
 #projects {
     background-color: #8c43ff;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+#blog {
+    background-color: #939598;
     padding: 50px;
     color: white;
     text-align: center;
