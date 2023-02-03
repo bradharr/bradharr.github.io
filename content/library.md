@@ -110,6 +110,7 @@ Here you will find books I've read across many years, some good and some not so 
 ### Christian Non-Fiction
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
+| ![Spiritual Warfare in Marriage](/img/library/spiritual_warfare.jpg) | Spiritual Warfare in Marriage | Bill Stonebraker| Great book for couples who want to keep Jesus at the center of their marriage! |
 | ![The Screwtape Letters](/img/library/screwtape.jpg) | The Screwtape Letters | C.S. Lewis| Excellent book that discusses how Demons impact the lives of believers and non-believers alike. |
 | ![Mere Christianity](/img/library/mere_christianity.jpg) | Mere Christianity | C.S. Lewis | Great book on the basics of Christianity. |
 | ![The Case for Christ](/img/library/case_for_christ.jpg) | The Case for Christ | Lee Strobel | This is a great book about a man who sets out to disprove Christianity and instead becomes a believer. |
