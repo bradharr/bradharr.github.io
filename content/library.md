@@ -16,6 +16,7 @@ Here you will find books I've read across many years, some good and some not so 
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
 | ![The Persian Gamble](/img/library/persian_gamble.jpg)| The Persian Gamble | Joel Rosenberg | Second in the Marcus Ryker series. Excellent read and continued perfectly from the first book of this series, ***"The Kremlin Conspiracy"*** |
+| ![Master & Apprentice](/img/library/master_and_apprentice.jpg)| Master & Apprentice | Claudia Gray | No comments. |
 
 ### Non-Fiction
 
