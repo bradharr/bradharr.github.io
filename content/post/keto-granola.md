@@ -10,7 +10,7 @@ cover:
     alt: "NuTrail Keto Nut Granola"
     caption: "NuTrail Keto Nut Granola"
 
-tags: ["granola"]
+tags: ["keto"]
 categories: ["recipes"]
 ---
 
