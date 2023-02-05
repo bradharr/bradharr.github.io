@@ -34,9 +34,10 @@ Net Carbs: 8 |
 
 * 1 Cup NuTrail Keto Nut Granola
 * 2 Cups Original Unsweetened Almond Milk
+* Splenda for sweetness to taste
 
 ### Instructions
-1. Pour Granola and Almond Milk in a Bowl
+1. Pour Granola, Splenda, and Almond Milk in a Bowl
 2. Enjoy!
 
 ![NuTrail Keto Nut Granola](/img/blog/keto_granola_img1.png)
