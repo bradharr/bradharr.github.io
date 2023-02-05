@@ -17,9 +17,9 @@ categories: ["recipes"]
 One day recently I was shamefully scrolling mindlessly through Facebook, as we all sometimes do. Don’t lie, you know you do it. Anyway, I came across one of those short videos that shows you how to make a dinner recipe idea and this one looked delicious so I thought, what the heck, let’s give it a go. It’s a very simple dish comprised of chicken, a glaze, cheese, and tomato. Very simple, quick, and easy to make. It has become one of our favorite chicken dishes for dinner in our house. Let’s get to it…  
 
 ## Recipe
-Prep Time: 10 Min
-Total Time: 30 Min
-Serves: 4  
+Prep Time: 10 Min |
+Total Time: 30 Min |
+Serves: 4 |  
 
 ### Ingredients
 * 4 Chicken Breasts or 8 – 9 Chicken Tenders

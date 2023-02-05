@@ -19,9 +19,9 @@ Let me introduce you to the Hillbilly Pit Pie… That’s right, one of the best
 So, I found a clip online from one of our local CBS Affiliate news programs where someone from Jiggy Ray’s had made the Hillbilly Pit Pie live on the air. This inspired me to attempt making my own version at home and it turned out much better than I had ever anticipated. Of course, they have their secret, signature barbecue sauce and I had to use store bought. They smoke their own pork for hours and I bought mine at Sam’s Club. However, it all turned out just fine in the end! If you love barbecue and you love pizza, you definitely need to make this pizza at home. I think this will be one I make pretty frequently going forward. One note, I really recommend you make the [Pizza Crust](https://bradleyharr.com/perfect-pizza-dough/) recipe that I posted previously on my Blog to use for this pizza. Now to the recipe!  
 
 ## Recipe
-Prep Time: 10 Min
-Total Time: 30 Min
-Serves: 4  
+Prep Time: 10 Min |
+Total Time: 30 Min |
+Serves: 4  |  
 
 ### Ingredients
 * Pizza Crust (Store Bought or Homemade)

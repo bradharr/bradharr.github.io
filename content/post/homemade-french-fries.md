@@ -19,9 +19,9 @@ One of my favorite foods is potatoes. Any style, any way you want to make them. 
 With all of that being said, I still can’t resist sometimes indulging in some of these amazing homemade French Fries! I came across this recipe on YouTube. The recipe comes from the YouTube Channel by “Fabulessly Frugal”. I will embed the video at the bottom of the post for those would would prefer to watch the recipe being made. All I can tell you is that I followed her recipe, making mine in my Ninja Foodi on the Air Crisp setting, and they have turned out perfect every time! Crispy on the outside and soft, tasty potato on the inside. They have become a favorite in our household and are often requested by my family. Now for the recipe!  
 
 ## Recipe
-Prep Time: 15 Min
-Total Time: 35 Min
-Serves: 3-4  
+Prep Time: 15 Min |
+Total Time: 35 Min |
+Serves: 3-4 |  
 
 ### Ingredients  
 * 2 or 3 Large Baking Potatoes
