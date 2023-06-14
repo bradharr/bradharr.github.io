@@ -15,7 +15,7 @@ Here you will find books I've read across many years, some good and some not so 
 
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
-| ![The Jerusalem Assassin](/img/library/jerusalem_assasin.jpg)| The Jerusalem Assassin | Joel Rosenberg | The third in the Marcus Ryker series.  Excellent book.  Again, continues very well from the others in this series.|
+| ![The Jerusalem Assassin](/img/library/jerusalem_assassin.jpg)| The Jerusalem Assassin | Joel Rosenberg | The third in the Marcus Ryker series.  Excellent book.  Again, continues very well from the others in this series.|
 
 ### Non-Fiction
 
