@@ -15,24 +15,24 @@ Here you will find books I've read across many years, some good and some not so 
 
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
-| ![The Persian Gamble](/img/library/persian_gamble.jpg)| The Persian Gamble | Joel Rosenberg | Second in the Marcus Ryker series. Excellent read and continued perfectly from the first book of this series, ***"The Kremlin Conspiracy"*** |
-| ![Master & Apprentice](/img/library/master_and_apprentice.jpg)| Master & Apprentice | Claudia Gray | No comments. |
+| ![The Jerusalem Assassin](/img/library/jerusalem_assasin.jpg)| The Jerusalem Assassin | Joel Rosenberg | The third in the Marcus Ryker series.  Excellent book.  Again, continues very well from the others in this series.|
 
 ### Non-Fiction
 
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
+| ![Spirit of the Anti-Christ The gathering cloud of deception - Volume II](/img/library/spirit_of_the_anti-christ_2.jpg)| Spirit of the Anti-Christ The gathering cloud of deception - Volume II| JB Hixson | Excellent continuation of Volume I with a great wealth of information about what's to come. |
 | ![Revealing Revelation](/img/library/revealing_revelation.jpg)| Revealing Revelation | Amir Tsarfati | Great read from Amir!  This book and the workbook that goes with it is the best I've ever seen for providing a real, in-depth study of the book of Revelation. |
-| ![101 Answers to Questions About Satan, Demons, and Spiratual Warfare](/img/library/101_answers_about_satan.jpg)| 101 Answers to Questions About Satan, Demons, and Spiratual Warfare | Mark Hitchcock | Very insightful answers to many questions one might have about Satan and his attacks on believers and non-believers alike. |
-| ![Global Reset](/img/library/global_reset.jpg)| Global Reset: Do Worldwide Events Point to the Antichrist and His Worldwide Empire | Mark Hitchcock | Truly amazing to look around at the world we live in today and see how everything is falling into place for Christ's return when you look at everything from a Biblical world view. |
 
 
 ## Read
 ***
 
 ### General Fiction
+
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
+| ![Master & Apprentice](/img/library/master_and_apprentice.jpg)| Master & Apprentice | Claudia Gray | No comments. |
 | ![A Pirate Looks at Fifty](/img/library/pirate.jpg) | A Pirate Looks at Fifty | Jimmy Buffett | No Comments. |
 | ![Tales from Margaritaville](/img/library/margaritaville.jpg) | Tales from Margaritaville | Jimmy Buffett | No Comments. |
 | ![Where is Joe Merchant?](/img/library/joe_merchant.jpg) | Where is Joe Merchant? | Jimmy Buffett | No Comments.|
@@ -85,6 +85,7 @@ Here you will find books I've read across many years, some good and some not so 
 ### Christian Fiction
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
+| ![The Persian Gamble](/img/library/persian_gamble.jpg)| The Persian Gamble | Joel Rosenberg | Second in the Marcus Ryker series. Excellent read and continued perfectly from the first book of this series, ***"The Kremlin Conspiracy"*** |
 | ![The Kremlin Conspiracy](/img/library/kremlin_conspiracy.jpg) | The Kremlin Conspiracy | Joel Rosenberg | Book 1 of the Marcus Ryker Series.  Excellent Book! |
 | ![Operation Joktan](/img/library/operation_joktan.jpg) | Operation Joktan | Amir Tsarfati | This is the second in the first fiction series by Amir.  I enjoyed this one more than ***"By Way of Deception"*** |
 | ![By Way of Deception](/img/library/by_way_of_deception.jpg) | By Way of Deception | Amir Tsarfati | This was Amir's first attempt at a Fiction novel.  It's worth the read and definitely make sure you check out the next book in the series as well. |
@@ -105,11 +106,14 @@ Here you will find books I've read across many years, some good and some not so 
 ### General Non-Fiction
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
-| ![Gun for Hire](/img/library/gun_for_hire.jpg) | Gun for Hire: The Soldier of Fortune Killings | Clifford L. Linedecker | This story hit a little close to home. Occurances in this story were regional to my hometown. |
+| ![Gun for Hire](/img/library/gun_for_hire.jpg) | Gun for Hire: The Soldier of Fortune Killings | Clifford L. Linedecker | This story hit a little close to home. Occurrences in this story were regional to my hometown. |
 
 ### Christian Non-Fiction
 | Cover | Title | Author | Notes |
 | :-----: | :-----: | :-----: | :-----: |
+| ![Spirit of the Anti-Christ The gathering cloud of deception - Volume I](/img/library/spirit_of_the_anti-christ_1.jpg)| Spirit of the Anti-Christ The gathering cloud of deception - Volume I| JB Hixson | Excellent book with details on the coming rise of the Anti-Christ, including how the stage is already being set. |
+| ![101 Answers to Questions About Satan, Demons, and Spiritual Warfare](/img/library/101_answers_about_satan.jpg)| 101 Answers to Questions About Satan, Demons, and Spiritual Warfare | Mark Hitchcock | Very insightful answers to many questions one might have about Satan and his attacks on believers and non-believers alike. |
+| ![Global Reset](/img/library/global_reset.jpg)| Global Reset: Do Worldwide Events Point to the Antichrist and His Worldwide Empire | Mark Hitchcock | Truly amazing to look around at the world we live in today and see how everything is falling into place for Christ's return when you look at everything from a Biblical world view. |
 | ![Spiritual Warfare in Marriage](/img/library/spiritual_warfare.jpg) | Spiritual Warfare in Marriage | Bill Stonebraker| Great book for couples who want to keep Jesus at the center of their marriage! |
 | ![The Screwtape Letters](/img/library/screwtape.jpg) | The Screwtape Letters | C.S. Lewis| Excellent book that discusses how Demons impact the lives of believers and non-believers alike. |
 | ![Mere Christianity](/img/library/mere_christianity.jpg) | Mere Christianity | C.S. Lewis | Great book on the basics of Christianity. |
@@ -135,5 +139,3 @@ Here you will find books I've read across many years, some good and some not so 
 | ![The Goal](/img/library/the_goal.jpg) | The Goal | Eliyahu M. Goldratt | This was a book I once had to read for work, but it ended up actually being a very interesteing read.  I would recommend it. |
 | ![Who Moved My Cheese](/img/library/who_moved_my_cheese.jpg) | Who Moved My Cheese | Spencer Johnson | A book about how to handle change. |
 | ![The 7 Habits of Highly Effective People](/img/library/7_habits.jpg) | The 7 Habits of Highly Effective People | Stephen R. Covey | No comments. |
-
-
