@@ -5,9 +5,8 @@ theme: "PaperMod"
 
 menu:
   main:
-    - identifier: search
-      name: search
-      url: /search/
+    - name: search
+      pageref: /search/
       weight: 10
     - identifier: tags
       name: tags
