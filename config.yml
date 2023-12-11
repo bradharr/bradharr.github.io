@@ -12,31 +12,26 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - name: categories
+      url: /categories
       weight: 30
-    - identifier: blog
-      name: blog
-      url: /post/
+    - name: blog
+      url: /post
       weight: 40
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - name: archives
+      url: /archives
       weight: 50
-    - identifier: amateurradio
-      name: amateur radio
-      url: /amateurradio/
+    - name: amateur radio
+      url: /amateurradio
       weight: 60
     - name: qrz page
       params:
         rel: external
       url: https://www.qrz.com/db/K4BSH
-      parent: amateurradio
+      parent: /amateur radio
       weight: 1
-    - identifer: about
-      name: about
-      url: /about/
+    - name: about
+      url: /about
       weight: 70
   sub:
     - identifier: qrz
