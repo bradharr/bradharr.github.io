@@ -8,28 +8,29 @@ menu:
     - name: search
       pageRef: /search
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - name: tags
+      pageRef: /tags/
       weight: 20
     - name: categories
-      url: /categories
+      pageRef: /categories
       weight: 30
     - name: blog
-      url: /post
+      pageRef: /post
       weight: 40
     - name: archives
-      url: /archives
+      pageRef: /archives
       weight: 50
     - name: amateur radio
-      url: /amateurradio
+      pageRef: /amateurradio
       weight: 60
-      - name: qrz page
-        url: https://www.qrz.com/db/K4BSH
-        parent: amateur radio
-        weight: 1
+    - name: qrz page
+      params:
+        rel: external
+      url: https://www.qrz.com/db/K4BSH
+      parent: amateur radio
+      weight: 1
     - name: about
-      url: /about
+      pageRef: /about
       weight: 70
 
 params:
