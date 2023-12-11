@@ -27,7 +27,7 @@ menu:
       weight: 50
     - identifier: amateur_radio
       name: amateur radio
-      url: /post/
+      url: /amateur_radio/
       weight: 60
     - identifer: about
       name: about
