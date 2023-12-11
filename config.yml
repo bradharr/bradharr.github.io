@@ -30,6 +30,8 @@ menu:
       url: /amateurradio/
       weight: 60
     - name: qrz page
+      params:
+        rel: external
       url: https://www.qrz.com/db/K4BSH
       parent: amateurradio
       weight: 1
