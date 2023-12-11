@@ -5,30 +5,38 @@ theme: "PaperMod"
 
 menu:
   main:
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: archives
-      url: /archives/
-      weight: 50
     - identifier: search
       name: search
       url: /search/
       weight: 10
-    - identifier: blog
-      name: blog
-      url: /post/
-      weight: 40
-    - identifer: about
-      name: about
-      url: /about/
-      weight: 60
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
     - identifier: categories
       name: categories
       url: /categories/
       weight: 30
+    - identifier: blog
+      name: blog
+      url: /post/
+      weight: 40
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 50
+    - identifier: amateur_radio
+      name: amateur radio
+      url: /post/
+      weight: 60
+      - identifier: qrz_page
+        name: qrz page
+        url: https://www.qrz.com/db/K4BSH
+        weight: 10
+    - identifer: about
+      name: about
+      url: /about/
+      weight: 70
 
 params:
   homeInfoParams:
