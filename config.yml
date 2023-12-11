@@ -29,10 +29,6 @@ menu:
       name: amateur radio
       url: /post/
       weight: 60
-      - identifier: qrz_page
-        name: qrz page
-        url: https://www.qrz.com/db/K4BSH
-        weight: 10
     - identifer: about
       name: about
       url: /about/
