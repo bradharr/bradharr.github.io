@@ -25,9 +25,9 @@ menu:
       name: archives
       url: /archives/
       weight: 50
-    - identifier: amateur_radio
+    - identifier: amateurradio
       name: amateur radio
-      url: /amateur_radio/
+      url: /amateurradio/
       weight: 60
     - identifer: about
       name: about
