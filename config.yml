@@ -24,10 +24,10 @@ menu:
     - name: amateur radio
       url: /amateurradio
       weight: 60
-    - name: qrz page
-      url: https://www.qrz.com/db/K4BSH
-      parent: amateur radio
-      weight: 1
+      - name: qrz page
+        url: https://www.qrz.com/db/K4BSH
+        parent: amateur radio
+        weight: 1
     - name: about
       url: /about
       weight: 70
