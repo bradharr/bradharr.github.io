@@ -24,10 +24,6 @@ menu:
     - identifer: about
       name: about
       url: /about/
-      weight: 70
-    - identifier: library
-      name: library
-      url: /library/
       weight: 60
     - identifier: categories
       name: categories
