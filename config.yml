@@ -29,15 +29,20 @@ menu:
       name: amateur radio
       url: /amateurradio/
       weight: 60
+    - name: qrz page
+      url: https://www.qrz.com/db/K4BSH
+      parent: amateurradio
+      weight: 1
+    - identifer: about
+      name: about
+      url: /about/
+      weight: 70
+  sub:
     - identifier: qrz
       name: qrz page
       url: https://www.qrz.com/db/K4BSH
       parent: "amateurradio"
       weight: 10
-    - identifer: about
-      name: about
-      url: /about/
-      weight: 70
 
 params:
   homeInfoParams:
