@@ -28,7 +28,7 @@ menu:
       params:
         rel: external
       url: https://www.qrz.com/db/K4BSH
-      parent: /amateurradio
+      parent: amateur radio
       weight: 1
     - name: about
       url: /about
