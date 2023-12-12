@@ -23,22 +23,9 @@ menu:
     - name: amateur radio
       pageRef: /amateurradio
       weight: 60
-    - name: qrz page
-      params:
-        rel: external
-      url: https://www.qrz.com/db/K4BSH
-      parent: amateur radio
-      weight: 1
     - name: about
       pageRef: /about
       weight: 70
-    - name: Products
-      pageRef: /products
-      weight: 80
-    - name: Hardware
-      pageRef: /products/hardware
-      parent: Products
-      weight: 1
 
 params:
   homeInfoParams:
