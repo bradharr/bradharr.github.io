@@ -17,8 +17,8 @@ menu:
     - name: blog
       pageRef: /post
       weight: 40
-    - name: archives
-      url: /archives
+    - name: archive
+      pageRef: /archive
       weight: 50
     - name: amateur radio
       pageRef: /amateurradio
@@ -32,6 +32,13 @@ menu:
     - name: about
       pageRef: /about
       weight: 70
+    - name: Products
+      pageRef: /products
+      weight: 80
+    - name: Hardware
+      pageRef: /products/hardware
+      parent: Products
+      weight: 1
 
 params:
   homeInfoParams:
