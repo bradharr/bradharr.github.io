@@ -12,7 +12,7 @@ draft: false
 
 ## YSF Reflector
 
-* Coming Soon...
+* http://crystalcoastreflector.bradleyharr.com/
 
 ## Current Amateur Radio Equipment
 
