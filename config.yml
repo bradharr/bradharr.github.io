@@ -28,7 +28,7 @@ params:
   homeInfoParams:
     imageUrl: "img/Bradley_Headshot_Square.JPG"
     imageTitle: "<title of image as alt>"
-    imageWidth: 280 
+    imageWidth: 300
     imageHeight: 300
     Title: Hey, I'm Bradley Harr...
     Subtitle: 'Christ Follower, Husband, Father, Amateur Radio Operator, and pursuer of all things geeky!'
