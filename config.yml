@@ -26,7 +26,7 @@ menu:
 
 params:
   homeInfoParams:
-    imageUrl: "img/Bradley_Headshot_Square.JPG"
+    imageUrl: "img/Bradley_Headshot_Square.png"
     imageTitle: "<title of image as alt>"
     imageWidth: 300
     imageHeight: 300
