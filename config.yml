@@ -56,12 +56,6 @@ params:
       url: "https://www.github.com/bradharr"
     - name: "telegram"
       url: "https://t.me/bharr01"
-    - name: "kofi"
-      url: "https://www.ko-fi.com/bradleyharr"
-    - name: "goodreads"
-      url: "https://www.goodreads.com/user/show/27470732-bradley-harr"
-    - name: "discogs"
-      url: "https://www.discogs.com/user/bharr01"
     - name: "rss"
       url: "https://www.bradleyharr.com/post/index.xml"
 
