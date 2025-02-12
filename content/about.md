@@ -15,13 +15,13 @@ I am happily married to my wife Jessica and together we have three wonderful boy
 ***
 ### RxBenefits, Inc.
 #### Business Analyst, Product
-> Oct 2024 - Present
+> Oct 2024 - Present  
 > As a dedicated professional working in an Agile SDLC environment, I specialize in gathering and writing detailed requirements to ensure the successful development and delivery of high-quality software solutions. I collaborate closely with stakeholders to translate business needs into clear and actionable Epics, Features, and User Stories, ensuring that all aspects of the project are well-defined and prioritized. Additionally, I create comprehensive system and process flow charts using LucidChart, helping teams visualize workflows and identify opportunities for optimization. My goal is to drive seamless communication, efficient processes, and impactful results throughout the entire project lifecycle.
 
 ![Ntara](/img/icons/ntara.jpeg)
 ### Ntara Partners, Inc.
 > #### Business Analyst, Product Information Management \| Implementation
-> Apr 2022 - Oct 2024 
+> Apr 2022 - Oct 2024  
 > Provide data analysis, data modeling, and Product Information Management (PIM) implementation support for clients spanning multiple industries. Utilize the inriver and Salsify PIM platforms in support of clients for data enrichment and syndication opportunities.
 
 ![T-Mobile](/img/icons/tmo.jpeg)
