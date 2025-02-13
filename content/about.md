@@ -17,18 +17,20 @@ I am happily married to my wife Jessica and together we have three wonderful boy
 > #### Business Analyst, Product
 > Oct 2024 - Present  
 > As a dedicated professional working in an Agile SDLC environment, I specialize in gathering and writing detailed requirements to ensure the successful development and delivery of high-quality software solutions. I collaborate closely with stakeholders to translate business needs into clear and actionable Epics, Features, and User Stories, ensuring that all aspects of the project are well-defined and prioritized. Additionally, I create comprehensive system and process flow charts using LucidChart, helping teams visualize workflows and identify opportunities for optimization. My goal is to drive seamless communication, efficient processes, and impactful results throughout the entire project lifecycle.
-
+***
 ![Ntara](/img/icons/ntara.jpeg)
 ### Ntara Partners, Inc.
 > #### Business Analyst, Product Information Management \| Implementation
 > Apr 2022 - Oct 2024  
-> Provide data analysis, data modeling, and Product Information Management (PIM) implementation support for clients spanning multiple industries. Utilize the inriver and Salsify PIM platforms in support of clients for data enrichment and syndication opportunities.
-
+> Provided data analysis, data modeling, and Product Information Management (PIM) implementation support to clients across various industries. Leveraged inriver, Akeneo, and Salsify PIM platforms to assist clients with data enrichment and syndication initiatives.
+***
 ![T-Mobile](/img/icons/tmo.jpeg)
 ### T-Mobile
 > #### Sr. Customer Experience Manager, IOT | Connected Car | Emerging Technology
 > Sep 2020 - April 2022  
-> Responsible for the end-to-end customer journey and experience for all T-Mobile and Metro by T-Mobile Internet of Things (IoT) and Connected Car products. Work cross-functionally to ensure the success of our Care organization for new IoT product launches through preparing Care with IVR Call Routing and TFN Generation, Care How-To documentation, Technical Care troubleshooting flows and Care training preparedness. Also ensure Care has the necessary tools and documentation to continue supporting previously launched IoT products.  
+> Responsible for overseeing the end-to-end customer journey and experience for all T-Mobile and Metro by T-Mobile Internet of Things (IoT) and Connected Car products. Collaborated cross-functionally with various teams to drive the success of the Care organization, particularly for new IoT product launches. Managed the development and implementation of IVR Call Routing, TFN (Toll-Free Number) generation, and comprehensive Care How-To documentation to ensure the Care team was well-prepared. Developed and refined Technical Care troubleshooting flows and facilitated the preparation of Care training materials to ensure a smooth transition and quick adoption of new IoT products.
+> 
+> Additionally, ensured the Care team had all necessary tools, resources, and up-to-date documentation to continue providing effective support for previously launched IoT products. These efforts contributed to a streamlined process for issue resolution, enhanced customer satisfaction, and an overall improved customer experience throughout the lifecycle of T-Mobile and Metro by T-Mobile IoT and Connected Car products.  
 > #### Senior Project Manager, Omni-Channel Operations | Process and WorkFlow | National Sales Support
 > Sep 2012 - Sep 2020  
 > Responsible for creating and maintaining online policy and process content related to the National Sales Support program in the Care and Sales Knowledge Base, including creation and maintenance of call flow content, via HTML & CSS, utilizing Visual Studio Code. The content in this online repository is used by thousands of Sales and Customer Management Specialists across the world to ensure core knowledge and efficiency for our customer facing channels. Also responsible for the Management of Specialized Projects within the Omni-Channel Operations channel.
