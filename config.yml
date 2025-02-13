@@ -25,15 +25,33 @@ menu:
       weight: 60
 
 params:
-  homeInfoParams:
+  profileMode:
+    enabled: true
+    title: "Hey, I'm Bradley Harr..."
+    subtitle: "Christ Follower, Husband, Father, and pursuer of all things geeky!"
+    content: Welcome! You've stumbled upon my small little corner of the internet. Created to be minimalistic by design, this is just a simple place to tell you a little about me and share some of my thoughts, ideas, and other information via my blog.  If you like what you read, feel free to use the social media icons on each post to share it with your friends and family.
+    disclaimer: Please note that all information and opinions in this website, including my blog, are my own and do not represent the opinion of any of my employers, either past or present.
     imageUrl: "img/Bradley_Headshot_Square.png"
-    imageTitle: "<title of image as alt>"
+    imageTitle: "Bradley Harr"
     imageWidth: 340
     imageHeight: 300
-    Title: Hey, I'm Bradley Harr...
-    Subtitle: 'Christ Follower, Husband, Father, Amateur Radio Operator, and pursuer of all things geeky!'
-    Content: Welcome! You've stumbled upon my small little corner of the internet. Created to be minimalistic by design, this is just a simple place to tell you a little about me and share some of my thoughts, ideas, and other information via my blog.  If you like what you read, feel free to use the social media icons on each post to share it with your friends and family.
+    buttons:
+      - name: "Blog"
+        url: "/post"
+      - name: "About Me"
+        url: "/about"
+      - name: "Search"
+        url: "/search"
 
+#params:
+ # homeInfoParams:
+ #   imageUrl: "img/Bradley_Headshot_Square.png"
+ #   imageTitle: "<title of image as alt>"
+ #   imageWidth: 340
+ #   imageHeight: 300
+ #   Title: Hey, I'm Bradley Harr...
+ #   Subtitle: 'Christ Follower, Husband, Father, Amateur Radio Operator, and pursuer of all things geeky!'
+ #   Content: Welcome! You've stumbled upon my small little corner of the internet. Created to be minimalistic by design, this is just a simple place to tell you a little about me and share some of my thoughts, ideas, and other information via my blog.  If you like what you read, feel free to use the social media icons on each post to share it with your friends and family.
 
   defaultTheme: light
   disableThemeToggle: true
@@ -68,6 +86,7 @@ params:
   disableScrollToTop: false
   UseHugoToC: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   author: ["by Bradley Harr"]
 
 outputs:

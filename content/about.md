@@ -5,14 +5,15 @@ draft: false
 ---
 ## Who I am...
 ***
-I was born in Abingdon, VA and grew up in Bristol, TN.  After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc.  In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before finally pursuing a new opportunity with Ntara as a Business Analyst of Product Information Management Implementation.
+I was born in Abingdon, VA and grew up in Bristol, TN.  After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc.  In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before finally pursuing a new opportunity with Ntara as a Business Analyst of Product Information Management Implementation.  I have since moved on to a new role as a Business Analyst in the Product group with RxBenefits, Inc.
 
 Throughout my career, I have always valued personal development.  I earned Bachelor and Master degrees from East Tennessee State University in Business Administration and a second Bachelor degree in Software Development from Western Governor’s University.  I also hold several industry certifications in both Project Management and Software Development.
 
-I am happily married to my wife Jessica and together we have three wonderful boys, Logan, Preston, and Brendan.
+I am happily married to my wife, Jessica, and together we have three wonderful boys, Logan, Preston, and Brendan.
 
 ## Things I've done...
 ***
+![RxBenefits](/img/icons/rxb.png)
 ### RxBenefits, Inc.
 > #### Business Analyst, Product
 > Oct 2024 - Present  
@@ -60,6 +61,9 @@ I am happily married to my wife Jessica and together we have three wonderful boy
 ## Things I've achieved...
 | | Certifiying Entity  | Certification | Date Issued |
 | :---: | :---: | :---: | :---: |
+| ![Lucid](/img/icons/lucid.jpeg) | Lucid | Diagramming Foundations | Nov 2024 |
+| ![freeCodeCamp](/img/icons/freecodecamp.jpeg) | freeCodeCamp | Foundational C# with Microsoft | Jul 2024 |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | Business Implementation Fundamentals | May 2024 |
 | ![inriver](/img/icons/inriver.jpeg) | inriver | Salsify Business Consultant Cerfification | May 2022 |
 | ![Salsify](/img/icons/salsify.jpeg) | Salsify | Salsify Foundations Cerfification | Apr 2022 |
 | ![Salsify](/img/icons/salsify.jpeg) | Salsify | Salsify PIM Certification | Apr 2022 |
