@@ -24,6 +24,10 @@ menu:
       pageRef: /about
       weight: 60
 
+taxonomies:
+  category: categories
+  tag: tags
+
 params:
   profileMode:
     enabled: true
