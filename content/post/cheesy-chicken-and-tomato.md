@@ -6,7 +6,7 @@ draft: false
 weight: -7
 
 cover:
-    image: "/img/blog/cheesy_chicken_and_tomato_cover.webp"
+    image: "/img/blog/2022_04_01_cheesy_chicken_and_tomato/cheesy_chicken_and_tomato_cover.webp"
     alt: "Cheesy Chicken and Tomato"
     caption: "Cheesy Chicken and Tomato"
 
@@ -40,4 +40,4 @@ Serves: 4 |
 6. Take cherry tomato halves and lay them between each piece of cheese and one on each end of the chicken to hold the cheese cubes upright and in place
 7. Preheat oven to 390 and bake for 40 Minutes or until your chicken reaches an internal temperature of 165 degrees Fahrenheit  
 
-{{< figure src="/img/blog/cheesy_chicken_and_tomato_img1.webp#center" title="Finished Dish!" >}}
+{{< figure src="/img/blog/2022_04_01_cheesy_chicken_and_tomato/cheesy_chicken_and_tomato_img1.webp#center" title="Finished Dish!" >}}

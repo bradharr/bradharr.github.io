@@ -6,7 +6,7 @@ draft: false
 weight: -6
 
 cover:
-    image: "/img/blog/delores_oriordan_cover.webp"
+    image: "/img/blog/2022_04_01_delores_oriordan/delores_oriordan_cover.webp"
     alt: "The Cranberries"
     caption: "The Cranberries"
 
@@ -29,9 +29,9 @@ Sadly, it was ultimately alcohol that led to her accidental drowning at only 46 
 
 What an unfortunate story. Dolores was survived by her ex-husband, their three children, and one step-son. Her funeral was held at Saint Ailbe’s Catholic Church in Limerick, Ireland where the service opened with a recording of Dolores singing Ave Maria with Luciano Pavarotti. At the end of the service The Cranberries, “When You’re Gone” was played and Dolores was laid to rest next to her father in a private cemetery. Below I’m including some images of Dolores being laid to rest and her grave as well as a YouTube video of Dolores performing an acoustic version of “Linger”.  
 
-{{< figure src="/img/blog/delores_oriordan_img1.webp#center" title="Delores O'Riordan Funeral" >}}  
+{{< figure src="/img/blog/2022_04_01_delores_oriordan/delores_oriordan_img1.webp#center" title="Delores O'Riordan Funeral" >}}  
 
-{{< figure src="/img/blog/delores_oriordan_img2.webp#center" title="Delores O'Riordan Grave" >}}
+{{< figure src="/img/blog/2022_04_01_delores_oriordan/delores_oriordan_img2.webp#center" title="Delores O'Riordan Grave" >}}
 
 {{<youtube KxbtgLXn4bY>}}
 **Linger - The Cranberries**

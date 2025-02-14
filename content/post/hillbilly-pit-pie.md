@@ -6,7 +6,7 @@ draft: false
 weight: -8
 
 cover:
-    image: "/img/blog/hillbilly_pit_pie_cover.webp"
+    image: "/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_cover.webp"
     alt: "Hillbilly Pit Pie"
     caption: "Hillbilly Pit Pie"
 
@@ -34,30 +34,30 @@ Serves: 4  |
 ### Instructions
 First you will want to lay out your pizza crust. If you used store bought, then just open the package and you’re ready to roll. If you made pizza crust from scratch, you’ll want to grease a pizza pan and spread the dough out to form the crust.  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img1.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img1.webp#center" title="" >}}  
 
 Next you will want to spread your desired amount of Barbecue Sauce onto the dough. I used G Hughes Sugar Free in order to cut down on the sugar and carbs.  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img2.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img2.webp#center" title="" >}}  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img3.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img3.webp#center" title="" >}}  
 
 Now it’s time to load it down with Smoked Pulled Pork. I used Member’s Mark Hardwood Smoked Pulled Pork from Sam’s Club and it was excellent.  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img4.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img4.webp#center" title="" >}}  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img5.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img5.webp#center" title="" >}}  
 
 Next we will cover the pizza in both Mozzarella (or White Cheddar) and Parmesan cheese.  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img6.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img6.webp#center" title="" >}}  
 
 Finally we’re going to add bacon to the top of the cheese to really solidify that pork flavor! Who doesn’t love bacon anyway?  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img7.webp#center" title="" >}}  
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img7.webp#center" title="" >}}  
 
 Lastly, you’re going to want to preheat your oven and bake this bad boy on 500 degrees for 15 minutes or until your desired level of crispiness is reached and the cheese is just starting to brown.  
 
 And… Voila! The Hillbilly Pit Pie Ladies and Gentlemen! Enjoy!!!  
 
-{{< figure src="/img/blog/hillbilly_pit_pie_img8.webp#center" title="" >}} 
+{{< figure src="/img/blog/2022_04_02_hillbilly_pit_pie/hillbilly_pit_pie_img8.webp#center" title="" >}} 

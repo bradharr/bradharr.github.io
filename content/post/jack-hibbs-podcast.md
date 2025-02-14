@@ -6,7 +6,7 @@ draft: false
 weight: -5
 
 cover:
-    image: "/img/blog/jack_hibbs_podcast_cover.webp"
+    image: "/img/blog/2022_03_28_jack_hibbs_podcast/jack_hibbs_podcast_cover.webp"
     alt: "Jack Hibbs Podcast"
     caption: "Jack Hibbs Podcast"
 

@@ -6,7 +6,7 @@ draft: false
 weight: -9
 
 cover:
-    image: "/img/blog/left_behind_cover.webp"
+    image: "/img/blog/2023_02_02_left_behind/left_behind_cover.webp"
     alt: "Left Behind Movie Poster"
     caption: "Left Behind Movie Poster"
 

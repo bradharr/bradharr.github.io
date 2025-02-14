@@ -6,7 +6,7 @@ draft: false
 weight: -3
 
 cover:
-    image: "/img/blog/perfect_pizza_dough_cover.webp"
+    image: "/img/blog/2022_03_24_perfect_pizza_dough/perfect_pizza_dough_cover.webp"
     alt: "Perfect Pizza Dough"
     caption: "Perfect Pizza Dough"
 
@@ -22,7 +22,7 @@ One other thing about this dough is, not only is it delicious, it’s extremely 
 
 This recipe was created by Joanna Cismaru (https://www.jocooks.com/wprm_print/15411). I’ve made it several times now and there is only one slight change that I make to the recipe so that’s how I will write it below. The change is in the amount of olive oil used in the dough. I found 1/3 cup was slightly too much. I also tried 1/4 cup, but landed on just slightly more than 1/4 and slightly less than 1/3 and it came out perfect.  
 
-{{< figure src="/img/blog/perfect_pizza_dough_img1.webp#center" title="Here is the Pizza Dough formed into a pizza crust. Doesn’t that look good? That’s a Cheeseburger Pizza and it was delicious!" >}}  
+{{< figure src="/img/blog/2022_03_24_perfect_pizza_dough/perfect_pizza_dough_img1.webp#center" title="Here is the Pizza Dough formed into a pizza crust. Doesn’t that look good? That’s a Cheeseburger Pizza and it was delicious!" >}}  
 
 ## Recipe  
 Prep Time: 10 Min

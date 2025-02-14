@@ -6,7 +6,7 @@ draft: false
 weight: -10
 
 cover:
-    image: "/img/blog/keto_granola_cover.jpg"
+    image: "/img/blog/2023_02_05_keto_granola/keto_granola_cover.jpg"
     alt: "NuTrail Keto Nut Granola"
     caption: "NuTrail Keto Nut Granola"
 
@@ -40,4 +40,4 @@ Net Carbs: 8 |
 1. Pour Granola, Splenda, and Almond Milk in a Bowl
 2. Enjoy!
 
-![NuTrail Keto Nut Granola](/img/blog/keto_granola_img1.png)
+![NuTrail Keto Nut Granola](/img/blog/2023_02_05_keto_granola/keto_granola_img1.png)

@@ -6,7 +6,7 @@ draft: false
 weight: -11
 
 cover:
-    image: "/img/blog/twas_the_night_before_christmas_cover.jpeg"
+    image: "/img/blog/2024_12_24_twas_the_night_before_christmas/twas_the_night_before_christmas_cover.jpeg"
     alt: "Santa with a Laptop Coding"
     caption: "Santa Clause Coding"
 

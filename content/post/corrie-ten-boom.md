@@ -6,7 +6,7 @@ draft: false
 weight: -2
 
 cover:
-    image: "/img/blog/corrie_ten_boom_cover.webp"
+    image: "/img/blog/2022_03_15_corrie_ten_boom/corrie_ten_boom_cover.webp"
     alt: "Corrie Ten Boom Museum"
     caption: "Corrie Ten Boom Museum"
 
@@ -16,7 +16,7 @@ categories: ["christianity"]
 
 I recently ran across a documentary on Amazon Prime called “Corrie Ten Boom: A Faith Undefeated (2013)” and thought it looked interesting so I decided to watch it and it turned out to be a very interesting story of a hero who was full of faith in Christ until the day she died. I’ll share some of what I learned with you here, but if you like what you are reading, I recommend you check out this documentary. It is likely available through various streaming services. Just search the title on your favorite search engine and you will surely find it.  
 
-{{< figure src="/img/blog/corrie_ten_boom_img1.webp#center" title="Ten Boom Family" >}}
+{{< figure src="/img/blog/2022_03_15_corrie_ten_boom/corrie_ten_boom_img1.webp#center" title="Ten Boom Family" >}}
 Image courtesy of: http://www.inspirationalchristians.org/biography/corrie-ten-boom/attachment/ten-boom-family/  
 
 
@@ -24,7 +24,7 @@ Corrie Ten Boom was born on April 15th, 1892 in the Netherlands to Casper and Co
 
 When Corrie was young, two of her Aunts came to live with their family. The home where they lived in Haarlem, Holland was no longer large enough to house the entire Ten Boom family so her father decided to purchase the adjacent house across the alley and connect the two homes by closing in the alley and adding a winding staircase between the homes. The reason the staircase had to wind was because the floors of each of the two homes were at different levels so the stairs had to wind around and allow access to each level of the newly combined home. Just to note, this home is now a Museum and can be visited in Holland. Corrie and her sister Betsie took good care of their Aunts until they ultimately both passed away. Eventually this left Corrie, Betsie, and their father as the residents of the Ten Boom home.  
 
-{{< figure src="/img/blog/corrie_ten_boom_img2.webp#center" title="The Ten Boom Home Diagram" >}}
+{{< figure src="/img/blog/2022_03_15_corrie_ten_boom/corrie_ten_boom_img2.webp#center" title="The Ten Boom Home Diagram" >}}
 Image courtesy of: http://2.bp.blogspot.com/-t0yS-qYsizY/VYG-6jLdbxI/AAAAAAAADj8/AK1zXWw-DVQ/s1600/59b7880e7c.jpg  
 
 During World War II, Germany invaded Holland in 1940 and their operation lasted for five years. During this time, Corrie, her father, and her sister began taking in Jews who were seeking asylum from the Nazi’s. The Ten Boom home became known as an underground safe house. Corrie and her family had a big heart and were willing to put their own lives on the line to rescue the Jewish people from persecution and death.  
@@ -33,7 +33,7 @@ There were a couple of codes that were used to know when someone needed to be ta
 
 Eventually the Ten Boom home was full of Jewish refuges hiding from the Nazi’s. The Ten Booms assigned chores and other activities to keep them busy and they all became like one big family. A buzzer system was also installed throughout the house so that should a Nazi office come knocking at the door, everyone would be alerted. There was a very small space behind Corrie’s closet with a trap door entrance inside the closet in front of which Corrie kept a large suitcase to hide the entrance. Nazi officers also frequently would knock on the wall to see if it was hollow to indicate a hiding space. However, Mr. Ten Boom considered this when building the hiding place and built the wall that was in front of it into the floor and the ceiling so it would sound solid if knocked upon.  
 
-{{< figure src="/img/blog/corrie_ten_boom_img3.webp#center" title="Corrie later in life showing the hiding place in her old bedroom." >}}
+{{< figure src="/img/blog/2022_03_15_corrie_ten_boom/corrie_ten_boom_img3.webp#center" title="Corrie later in life showing the hiding place in her old bedroom." >}}
 Image courtesy of: http://jontrott.com/wp-content/uploads/2014/05/hiding-place.jpg  
 
 The Ten Boom’s became well known in the underground for taking in and rescuing Jews. Once someone asked them to take in a Jewish baby that was going to be killed and they quickly agreed. Then on February 28, 1944, another man came knocking at the door stating that he understood they took in Jewish people and he said his wife was in prison, but the guard had agreed to release her if the man would pay him. Corrie agreed to help pay off the guard; however, it turned out that this man was a deceiver and he turned the Ten Boom’s in to the Nazis. Shortly there after the Nazis came to the Ten Boom home and when Corrie’s sister opened the door, they pushed their way in. Thankfully there was a buzzer near the door and her sister was able to press the buzzer to alert the household of the invasion. This is where the design of the new home comes into play. You see, the Ten Booms had implemented an emergency preparedness plan and practiced it time and time again. Any time the buzzer was pressed, they had to clear their plates at the table, leaving only three place settings and gather their belongings and make it to their hiding place behind Corrie’s closet, which was on the top floor of the home and the farthest room from the front door of the home, all within 60 seconds. It was likely because of the practice drills that they were able to make it to the hiding place and those six people were not found by the Nazis that day. However, Corrie and her family were immediately arrested and taken to prison.  

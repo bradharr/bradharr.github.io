@@ -6,7 +6,7 @@ draft: false
 weight: -4
 
 cover:
-    image: "/img/blog/homemade_french_fries_cover.webp"
+    image: "/img/blog/2022_03_27_homemade_french_fries/homemade_french_fries_cover.webp"
     alt: "Homemade French Fries"
     caption: "Homemade French Fries"
 
