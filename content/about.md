@@ -15,15 +15,15 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 ***
 ![Ntara](/img/icons/ntara.jpeg)
 ### Ntara Partners, Inc.
-> #### Solutions Engineer, Product Information Management \| Implementation
+> #### Solutions Engineer, Product Information Management | Data Modeling | Solutions Architecture
 > Mar 2025 - Present  
 > Work closely with clients to analyze their PIM needs and implement solutions using inriver, Akeneo, and Salsify. Collaborate with stakeholders to assess data structures, optimize workflows, and configure PIM systems to streamline product data management. Provide technical guidance, troubleshoot integration challenges, and ensure seamless implementation to enhance product data consistency, syndication, and digital commerce strategies. Leverage problem-solving skills and expertise in PIM platforms to translate business requirements into scalable technical solutions.
 ***
 ![Ntara](/img/icons/ntara.jpeg)
 ### Ntara Partners, Inc.
-> #### Business Analyst, Product Information Management \| Implementation
+> #### Business Analyst, Product Information Management | Data Modeling | Solutions Architecture
 > Apr 2022 - Mar 2025  
-> Provide data analysis, data modeling, and Product Information Management (PIM) implementation support to clients across various industries. Leverage inriver, Akeneo, and Salsify PIM platforms to assist clients with data enrichment and syndication initiatives.
+> Provided data analysis, data modeling, and Product Information Management (PIM) implementation support to clients across various industries. Leveraged inriver, Akeneo, and Salsify PIM platforms to assist clients with data enrichment and syndication initiatives.
 ***
 ![T-Mobile](/img/icons/tmo.jpeg)
 ### T-Mobile
