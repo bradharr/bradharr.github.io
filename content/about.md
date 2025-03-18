@@ -13,17 +13,17 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 
 ## Things I've done...
 ***
-![RxBenefits](/img/icons/rxb.png)
-### RxBenefits, Inc.
-> #### Business Analyst, Product
-> Oct 2024 - Present  
-> As a dedicated professional working in an Agile SDLC environment, I specialize in gathering and writing detailed requirements to ensure the successful development and delivery of high-quality software solutions. I collaborate closely with stakeholders to translate business needs into clear and actionable Epics, Features, and User Stories, ensuring that all aspects of the project are well-defined and prioritized. Additionally, I create comprehensive system and process flow charts using LucidChart, helping teams visualize workflows and identify opportunities for optimization. My goal is to drive seamless communication, efficient processes, and impactful results throughout the entire project lifecycle.
+![Ntara](/img/icons/ntara.jpeg)
+### Ntara Partners, Inc.
+> #### Solutions Engineer, Product Information Management \| Implementation
+> Mar 2025 - Present  
+> Work closely with clients to analyze their PIM needs and implement solutions using inriver, Akeneo, and Salsify. Collaborate with stakeholders to assess data structures, optimize workflows, and configure PIM systems to streamline product data management. Provide technical guidance, troubleshoot integration challenges, and ensure seamless implementation to enhance product data consistency, syndication, and digital commerce strategies. Leverage problem-solving skills and expertise in PIM platforms to translate business requirements into scalable technical solutions.
 ***
 ![Ntara](/img/icons/ntara.jpeg)
 ### Ntara Partners, Inc.
 > #### Business Analyst, Product Information Management \| Implementation
-> Apr 2022 - Oct 2024  
-> Provided data analysis, data modeling, and Product Information Management (PIM) implementation support to clients across various industries. Leveraged inriver, Akeneo, and Salsify PIM platforms to assist clients with data enrichment and syndication initiatives.
+> Apr 2022 - Mar 2025  
+> Provide data analysis, data modeling, and Product Information Management (PIM) implementation support to clients across various industries. Leverage inriver, Akeneo, and Salsify PIM platforms to assist clients with data enrichment and syndication initiatives.
 ***
 ![T-Mobile](/img/icons/tmo.jpeg)
 ### T-Mobile
