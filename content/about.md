@@ -5,7 +5,7 @@ draft: false
 ---
 ## Who I am...
 ***
-I was born in Abingdon, VA and grew up in Bristol, TN.  After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc.  In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before finally pursuing a new opportunity with Ntara as a Business Analyst of Product Information Management Implementation.  I have since moved on to a new role as a Business Analyst in the Product group with RxBenefits, Inc.
+I was born in Abingdon, VA and grew up in Bristol, TN.  After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc.  In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before finally pursuing a new opportunity with Ntara as a Business Analyst of Product Information Management.  I have since been promoted to a Solutions Engineer with Ntara and still support our clients in the Analysis, Implementation, and Support of their Product Information Management platforms.
 
 Throughout my career, I have always valued personal development.  I earned Bachelor and Master degrees from East Tennessee State University in Business Administration and a second Bachelor degree in Software Development from Western Governor’s University.  I also hold several industry certifications in both Project Management and Software Development.
 
