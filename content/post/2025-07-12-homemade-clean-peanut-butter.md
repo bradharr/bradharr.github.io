@@ -12,8 +12,6 @@ tags: ["peanut butter", "homemade", "low sugar", "vitamix", "hugo-recipe"]
 categories: ["recipes"]
 ---
 
-![Homemade Crunchy Peanut Butter]("/img/blog/2025_07_12_homemade_clean_peanut_butter/peanut_butter.jpg")
-
 ## Ingredients
 
 - 8 cups unsalted dry roasted peanuts  
