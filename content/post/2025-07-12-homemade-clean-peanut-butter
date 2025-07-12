@@ -1,9 +1,15 @@
 ---
 title: "Clean & Crunchy Peanut Butter (Jif-Inspired, Quart Batch)"
-date: 2025-07-12
 description: "A clean, homemade, stevia-sweetened crunchy peanut butter that mimics Jif — made in a Vitamix with peanut oil and no junk ingredients."
+date: 2025-07-12T20:15:00-05:00
+draft: false
+weight: -12
+cover:
+    image: "https://cdn.pixabay.com/photo/2017/10/15/07/36/peanut-butter-2852462_1280.jpg"
+    alt: "Homemade Clean Peanut Butter"
+    caption: "Homemade Clean Peanut Butter"
 tags: ["peanut butter", "homemade", "low sugar", "vitamix", "hugo-recipe"]
-image: "https://cdn.pixabay.com/photo/2017/10/15/07/36/peanut-butter-2852462_1280.jpg"
+categories: ["recipes"]
 ---
 
 ![Homemade Crunchy Peanut Butter](https://cdn.pixabay.com/photo/2017/10/15/07/36/peanut-butter-2852462_1280.jpg)
