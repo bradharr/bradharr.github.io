@@ -5,14 +5,14 @@ date: 2025-07-12T12:00:00Z
 draft: false
 weight: -12
 cover:
-    image: "https://cdn.pixabay.com/photo/2017/10/15/07/36/peanut-butter-2852462_1280.jpg"
+    image: "/img/blog/2025_07_12_peanut_butter.jpg"
     alt: "Homemade Clean Peanut Butter"
     caption: "Homemade Clean Peanut Butter"
 tags: ["peanut butter", "homemade", "low sugar", "vitamix", "hugo-recipe"]
 categories: ["recipes"]
 ---
 
-![Homemade Crunchy Peanut Butter](https://cdn.pixabay.com/photo/2017/10/15/07/36/peanut-butter-2852462_1280.jpg)
+![Homemade Crunchy Peanut Butter]("/img/blog/2025_07_12_peanut_butter.jpg")
 
 ## Ingredients
 
