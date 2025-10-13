@@ -58,6 +58,7 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 ## Things I've achieved...
 | | Certifiying Entity  | Certification | Date Issued |
 | :---: | :---: | :---: | :---: |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | SDM Fundamentals | Oct 2025 |
 | ![Lucid](/img/icons/lucid.jpeg) | Lucid | Diagramming Foundations | Nov 2024 |
 | ![freeCodeCamp](/img/icons/freecodecamp.jpeg) | freeCodeCamp | Foundational C# with Microsoft | Jul 2024 |
 | ![Akeneo](/img/icons/akeneo.png) | Akeneo | Business Implementation Fundamentals | May 2024 |
