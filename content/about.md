@@ -82,15 +82,14 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 |![ETSU](/img/icons/etsu.jpeg)|East Tennessee State University|Bachelor of Business Administration — Integrated Marketing Communications|
 |![WGU](/img/icons/wgu.jpeg)  |Western Governor’s University  |Bachelor of Science — Software Development                               |
 
-## Things I’ve achieved…
-
-|                                                    |Certifying Entity           |Certification                                 |Date Issued|
-|:--------------------------------------------------:|:--------------------------:|:--------------------------------------------:|:---------:|
-|![Akeneo](/img/icons/akeneo.png)                    |Akeneo                      |SME Program — Designated Subject Matter Expert|2024       |
-|![Akeneo](/img/icons/akeneo.png)                    |Akeneo                      |Business Implementation Specialist            |2024       |
-|![Akeneo](/img/icons/akeneo.png)                    |Akeneo                      |PXM Advisor                                   |2024       |
-|![Akeneo](/img/icons/akeneo.png)                    |Akeneo                      |SDM Fundamentals                              |Oct 2025   |
-|![Akeneo](/img/icons/akeneo.png)                    |Akeneo                      |Business Implementation Fundamentals          |May 2024   |
-|![Project Management Institute](/img/icons/pmi.jpeg)|Project Management Institute|Project Management Professional (PMP)         |Dec 2017   |
-|![Salsify](/img/icons/salsify.jpeg)                 |Salsify                     |Salsify Syndication Certification             |Apr 2022   |
-|![inriver](/img/icons/inriver.jpeg)                 |inriver                     |Business Consultant Certification             |May 2022   |
+## Things I've achieved...
+| | Certifying Entity | Certification | Date Issued |
+| :---: | :---: | :---: | :---: |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | SME Program — Designated Subject Matter Expert | |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | Business Implementation Specialist | Feb 2026 |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | Business Implementation Fundamentals | Dec 2025 |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | Product Experience Advisor | Dec 2025 |
+| ![Akeneo](/img/icons/akeneo.png) | Akeneo | SDM Fundamentals | Oct 2025 |
+| ![inriver](/img/icons/inriver.jpeg) | inriver | Business Consultant Certification | May 2022 |
+| ![Salsify](/img/icons/salsify.jpeg) | Salsify | Salsify Syndication Certification | Apr 2022 |
+| ![Project Management Institute](/img/icons/pmi.jpeg) | Project Management Institute | Project Management Professional (PMP) | Dec 2017 |
