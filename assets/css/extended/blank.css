@@ -3,12 +3,15 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
-.profile-mode .profile-info .profile-subtitle {
-    text-align: center;
-}
-
-.profile-mode .profile-info p {
+/* Left-align profile content paragraph while keeping it centered on page */
+.profile-mode .profile-info {
     text-align: left;
     max-width: 640px;
     margin: 0 auto;
 }
+
+.profile-mode .profile-info h1,
+.profile-mode .profile-info h4 {
+    text-align: center;
+}
+
