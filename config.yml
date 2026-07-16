@@ -5,24 +5,9 @@ theme: "PaperMod"
 
 menu:
   main:
-    - name: search
-      pageRef: /search
-      weight: 10
-    - name: tags
-      pageRef: /tags/
-      weight: 20
-    - name: categories
-      pageRef: /categories
-      weight: 30
-    - name: blog
-      pageRef: /post
-      weight: 40
-    - name: archive
-      pageRef: /archive
-      weight: 50
     - name: about
       pageRef: /about
-      weight: 60
+      weight: 10
 
 taxonomies:
   category: categories
@@ -31,31 +16,18 @@ taxonomies:
 params:
   profileMode:
     enabled: true
-    title: "Hey, I'm Bradley Harr..."
-    subtitle: "Christ Follower, Husband, Father, and pursuer of all things geeky!"
-    content: Welcome! You've stumbled upon my small little corner of the internet. Created to be minimalistic by design, this is just a simple place to tell you a little about me and share some of my thoughts, ideas, and other information via my blog.  If you like what you read, feel free to use the social media icons on each post to share it with your friends and family.
-    disclaimer: Please note that all information and opinions in this website, including my blog, are my own and do not represent the opinion of any of my employers, either past or present.
+    title: "Bradley S. Harr, PMP"
+    subtitle: "Akeneo SME  |  Solutions Engineer  |  PIM Specialist  |  Digital Commerce"
+    content: "Product Information Management specialist and Akeneo Subject Matter Expert with nearly 5 years of hands-on PIM implementation experience and over 25 years in business and technology environments. Deep expertise in Akeneo across the full implementation lifecycle — from discovery and requirements analysis through configuration, enrichment workflow design, supplier data management, and go-live support. Project Management Professional (PMP) certified with a track record of delivering results in fast-paced, client-facing environments."
     imageUrl: "img/Bradley_Headshot_Square.png"
     imageTitle: "Bradley Harr"
     imageWidth: 340
     imageHeight: 300
     buttons:
-      - name: "Blog"
-        url: "/post"
       - name: "About Me"
         url: "/about"
-      - name: "Search"
-        url: "/search"
-
-#params:
- # homeInfoParams:
- #   imageUrl: "img/Bradley_Headshot_Square.png"
- #   imageTitle: "<title of image as alt>"
- #   imageWidth: 340
- #   imageHeight: 300
- #   Title: Hey, I'm Bradley Harr...
- #   Subtitle: 'Christ Follower, Husband, Father, Amateur Radio Operator, and pursuer of all things geeky!'
- #   Content: Welcome! You've stumbled upon my small little corner of the internet. Created to be minimalistic by design, this is just a simple place to tell you a little about me and share some of my thoughts, ideas, and other information via my blog.  If you like what you read, feel free to use the social media icons on each post to share it with your friends and family.
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/bradleyharr"
 
   defaultTheme: light
   disableThemeToggle: true
@@ -66,35 +38,25 @@ params:
     favicon32x32: "/img/favicon-32x32.png"
     apple_touch_icon: "/img/apple-touch-icon.png"
 
-
   socialIcons:
-    - name: "facebook"
-      url: "https://www.facebook.com/bradleysharr"
-    - name: "twitter"
-      url: "https://www.twitter.com/bradley_s_harr"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/bradleyharr"
     - name: "github"
       url: "https://www.github.com/bradharr"
-    - name: "telegram"
-      url: "https://t.me/bharr01"
-    - name: "rss"
-      url: "https://www.bradleyharr.com/post/index.xml"
 
-  ShowToC: true
-  ShowBreadcrumbs: true
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowWordCount: true
+  ShowToC: false
+  ShowBreadcrumbs: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowWordCount: false
   disableScrollToTop: false
-  UseHugoToC: true
-  ShowRssButtonInSectionTermList: true
-  ShowFullTextinRSS: true
+  UseHugoToC: false
+  ShowRssButtonInSectionTermList: false
+  ShowFullTextinRSS: false
   author: ["by Bradley Harr"]
 
 outputs:
   home:
     - HTML
-    - RSS
     - JSON
