@@ -1,7 +1,9 @@
----
-title: "About"
+-----
+
+title: “About”
 draft: false
----
+
+-----
 
 ## Who I am…
 
@@ -9,7 +11,7 @@ draft: false
 
 I was born in Abingdon, VA and grew up in Bristol, TN. After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc. In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before pursuing a new opportunity in Product Information Management.
 
-I am an Akeneo Subject Matter Expert and Solutions Engineer with nearly 5 years of hands-on PIM implementation experience, working with clients across multiple industries to analyze, design, and implement scalable product data solutions. I hold multiple Akeneo certifications and am a designated participant in the Akeneo SME Partner Program.
+I am an Akeneo Subject Matter Expert and Solutions Engineer with extensive hands-on PIM implementation experience, working with clients across multiple industries to analyze, design, and implement scalable product data solutions. I hold multiple Akeneo certifications and am a designated participant in the Akeneo SME Partner Program.
 
 Throughout my career, I have always valued personal development. I earned Bachelor and Master degrees from East Tennessee State University in Business Administration, a second Bachelor degree in Software Development from Western Governor’s University, and hold a Project Management Professional (PMP) certification from the Project Management Institute.
 
@@ -25,8 +27,13 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 
 > #### Solutions Engineer — Product Information Management | Data Modeling | Solutions Architecture
 > 
-> April 2022 - Present
+> March 2025 - Present
 > Serve as Ntara’s designated Akeneo Subject Matter Expert within the Akeneo SME Partner Program. Lead end-to-end Akeneo and Inriver PIM implementations across multiple industries, managing full project lifecycle from discovery through go-live. Responsibilities include requirements and use case gathering, data modeling, current and future state systems architecture, inbound and outbound integration definition, and workflow and product lifecycle design. Implement Akeneo Supplier Data Manager (SDM) for supplier onboarding and data governance workflows. Support pre-sales RFP responses and platform selection engagements, positioning Akeneo as the preferred solution based on client requirements and use cases.
+> 
+> #### Technical Business Analyst — Product Information Management | Data Modeling | Solutions Architecture
+> 
+> April 2022 - March 2025
+> Led Akeneo PIM implementation engagements across multiple client projects including requirements gathering, data modeling, and platform configuration. Delivered data analysis and PIM implementation support to clients across multiple industries using Akeneo and Inriver. Collaborated cross-functionally with solutions engineers, developers, and project managers to deliver integrated PIM solutions on time and within scope.
 
 -----
 
@@ -89,4 +96,3 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 |![Project Management Institute](/img/icons/pmi.jpeg)|Project Management Institute|Project Management Professional (PMP)         |Dec 2017   |
 |![Salsify](/img/icons/salsify.jpeg)                 |Salsify                     |Salsify Syndication Certification             |Apr 2022   |
 |![inriver](/img/icons/inriver.jpeg)                 |inriver                     |Business Consultant Certification             |May 2022   |
-|![Axelos](/img/icons/axelos.jpeg)                   |Axelos                      |ITIL Foundations — IT Service Management      |Apr 2019   |

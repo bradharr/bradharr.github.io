@@ -18,7 +18,7 @@ params:
     enabled: true
     title: "Bradley S. Harr, PMP"
     subtitle: "Akeneo SME  |  Solutions Engineer  |  PIM Specialist  |  Digital Commerce"
-    content: "Product Information Management specialist and Akeneo Subject Matter Expert with nearly 5 years of hands-on PIM implementation experience and over 25 years in business and technology environments. Deep expertise in Akeneo across the full implementation lifecycle — from discovery and requirements analysis through configuration, enrichment workflow design, supplier data management, and go-live support. Project Management Professional (PMP) certified with a track record of delivering results in fast-paced, client-facing environments."
+    content: "Product Information Management specialist and Akeneo Subject Matter Expert with extensive hands-on PIM implementation experience and over 25 years in business and technology environments. Deep expertise in Akeneo across the full implementation lifecycle — from discovery and requirements analysis through configuration, enrichment workflow design, supplier data management, and go-live support. Project Management Professional (PMP) certified with a track record of delivering results in fast-paced, client-facing environments."
     imageUrl: "img/Bradley_Headshot_Square.png"
     imageTitle: "Bradley Harr"
     imageWidth: 340
@@ -37,6 +37,8 @@ params:
     favicon16x16: "/img/favicon-16x16.png"
     favicon32x32: "/img/favicon-32x32.png"
     apple_touch_icon: "/img/apple-touch-icon.png"
+    customCSS:
+      - "css/custom.css"
 
   socialIcons:
     - name: "linkedin"
