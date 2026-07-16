@@ -1,9 +1,7 @@
------
-
-title: “About”
+---
+title: "About"
 draft: false
-
------
+---
 
 ## Who I am…
 
