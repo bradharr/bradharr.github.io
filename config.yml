@@ -22,7 +22,7 @@ params:
     imageUrl: "img/Bradley_Headshot_Square.png"
     imageTitle: "Bradley Harr"
     imageWidth: 340
-    imageHeight: 300
+    imageHeight: 255
     buttons:
       - name: "About Me"
         url: "/about"
