@@ -5,7 +5,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 
 /* Left-align profile content while keeping centered on page */
-.first-entry p {
+.first-entry p,
+.intro-text {
     text-align: left;
     max-width: 640px;
     margin-left: auto;
