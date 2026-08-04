@@ -7,7 +7,7 @@ draft: false
 
 -----
 
-I was born in Abingdon, VA and grew up in Bristol, TN. After graduating from High School, I started work through a Temporary Agency for Sprint Telecenters, Inc. In 1999, I became a permanent employee where I began my career with Sprint, now T-Mobile, that spanned more than 22 years before pursuing a new opportunity in Product Information Management.
+My career began with Sprint, now T-Mobile, and spanned more than 22 years, building a deep foundation in customer experience and project management across contact center operations, national sales strategy, and emerging technology programs. That foundation — a focus on process, data, and the end-user experience — is what eventually drew me into Product Information Management.
 
 I am an Akeneo Subject Matter Expert and Solutions Engineer with extensive hands-on PIM implementation experience, working with clients across multiple industries to analyze, design, and implement scalable product data solutions. I hold multiple Akeneo certifications and am a designated participant in the Akeneo SME Partner Program.
 
