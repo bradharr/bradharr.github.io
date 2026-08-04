@@ -8,6 +8,9 @@ menu:
     - name: about
       pageRef: /about
       weight: 10
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/bradleyharr
+      weight: 20
 
 taxonomies:
   category: categories
@@ -39,12 +42,6 @@ params:
     apple_touch_icon: "/img/apple-touch-icon.png"
     customCSS:
       - "css/custom.css"
-
-  socialIcons:
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/bradleyharr"
-    - name: "github"
-      url: "https://www.github.com/bradharr"
 
   ShowToC: false
   ShowBreadcrumbs: false
