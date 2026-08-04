@@ -26,11 +26,13 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 > #### Solutions Engineer — Product Information Management | Data Modeling | Solutions Architecture
 > 
 > March 2025 - Present
+>
 > Serve as Ntara’s designated Akeneo Subject Matter Expert within the Akeneo SME Partner Program. Lead end-to-end Akeneo and Inriver PIM implementations across multiple industries, managing full project lifecycle from discovery through go-live. Responsibilities include requirements and use case gathering, data modeling, current and future state systems architecture, inbound and outbound integration definition, and workflow and product lifecycle design. Implement Akeneo Supplier Data Manager (SDM) for supplier onboarding and data governance workflows. Support pre-sales RFP responses and platform selection engagements, positioning Akeneo as the preferred solution based on client requirements and use cases.
 > 
 > #### Technical Business Analyst — Product Information Management | Data Modeling | Solutions Architecture
 > 
 > April 2022 - March 2025
+>
 > Led Akeneo PIM implementation engagements across multiple client projects including requirements gathering, data modeling, and platform configuration. Delivered data analysis and PIM implementation support to clients across multiple industries using Akeneo and Inriver. Collaborated cross-functionally with solutions engineers, developers, and project managers to deliver integrated PIM solutions on time and within scope.
 
 -----
@@ -42,36 +44,43 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 > #### Sr. Customer Experience Manager — IoT | Connected Car | Emerging Technology
 > 
 > Sep 2020 - April 2022
+>
 > Responsible for overseeing the end-to-end customer journey and experience for all T-Mobile and Metro by T-Mobile Internet of Things (IoT) and Connected Car products. Managed IVR Call Routing, Toll-Free Number generation, and Care documentation for new IoT product launches. Developed Technical Care troubleshooting flows and facilitated Care training to ensure rapid product adoption.
 > 
 > #### Senior Project Manager — Omni-Channel Operations | Process & Workflow | National Sales Support
 > 
 > Sep 2012 - Sep 2020
+>
 > Responsible for creating and maintaining online policy and process content for the National Sales Support program, used by thousands of Sales and Customer Management Specialists globally. Managed specialized projects within Omni-Channel Operations from design through implementation. Earned Project Management Professional (PMP) certification through PMI during this tenure.
 > 
 > #### Senior Operations Manager — Customer Service | National Sales Support
 > 
 > Apr 2011 - Sep 2012
+>
 > Responsible for 150 employees ranging from Call Center Specialists to Call Center Management, delivering results with a customer experience focus.
 > 
 > #### Senior Project Manager — Sales Support Strategy & Operations
 > 
 > Feb 2006 - Apr 2011
+>
 > Managed projects and programs end-to-end for the National Sales Support line of business. Acted as liaison between Customer Care Operations and Sales Operations executives to drive sales and reduce costs.
 > 
 > #### Business Analyst
 > 
 > May 2005 - Feb 2006
+>
 > Provided reporting and analysis of contact center metrics with recommendations to management and executive leadership. Created and maintained web-based reporting solutions and centralized document repositories.
 > 
 > #### Customer Service Operations Supervisor
 > 
 > Jul 2003 - May 2005
+>
 > Led a team of 20+ Contact Center Specialists handling inbound customer interactions. Coached and developed Specialists to achieve key performance metrics with a strong focus on customer satisfaction.
 > 
 > #### Senior Workforce Management Analyst
 > 
 > Oct 1999 - Jul 2003
+>
 > Oversaw daily contact center activities for 600+ employees, monitoring KPIs, service levels, reporting, payroll analysis, and scheduling.
 
 ## Things I’ve learned…
