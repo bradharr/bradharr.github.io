@@ -13,3 +13,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Hide empty social icons container to reduce gap above buttons */
+.profile_inner .social-icons {
+    display: none;
+    }
