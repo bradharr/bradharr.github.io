@@ -21,7 +21,7 @@ params:
     enabled: true
     title: "Bradley S. Harr, PMP"
     subtitle: "Akeneo SME  |  Solutions Engineer  |  PIM Specialist  |  Digital Commerce"
-        content: "Product Experience & Information Management (PXM/PIM) specialist and Akeneo Subject Matter Expert with over 25 years spanning digital commerce, technology, and customer experience. Expertise covers end-to-end PIM and digital commerce implementations — from discovery and data modeling through enrichment workflows, Supplier Onboarding and Channel Activation (Syndication), and go-live — turning product data into a strategic asset. That foundation builds on two decades leading customer experience programs at T-Mobile, backed by a Project Management Professional (PMP) certification that keeps every engagement structured and results-driven."
+    content: "Product Experience & Information Management (PXM/PIM) specialist and Akeneo Subject Matter Expert with over 25 years spanning digital commerce, technology, and customer experience. Expertise covers end-to-end PIM and digital commerce implementations — from discovery and data modeling through enrichment workflows, Supplier Onboarding and Channel Activation (Syndication), and go-live — turning product data into a strategic asset. That foundation builds on two decades leading customer experience programs at T-Mobile, backed by a Project Management Professional (PMP) certification that keeps every engagement structured and results-driven."
     imageUrl: "img/Bradley_Headshot_Square.png"
     imageTitle: "Bradley Harr"
     imageWidth: 340
