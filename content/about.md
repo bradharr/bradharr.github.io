@@ -7,7 +7,7 @@ draft: false
 
 -----
 
-My career began with Sprint, now T-Mobile, and spanned more than 22 years, building a deep foundation in customer experience and project management across contact center operations, national sales strategy, and emerging technology programs. That foundation — a focus on process, data, and the end-user experience — is what eventually drew me into Product Information Management.
+My career began with Sprint, now T-Mobile, where it spanned over 22 years, building a deep foundation in customer experience and project management across contact center operations, national sales strategy, and emerging technology programs. That foundation — a focus on process, data, and the end-user experience — is what eventually drew me into Product Information Management.
 
 I am an Akeneo Subject Matter Expert and Solutions Engineer with extensive hands-on PIM implementation experience, working with clients across multiple industries to analyze, design, and implement scalable product data solutions. I hold multiple Akeneo certifications and am a designated participant in the Akeneo SME Partner Program.
 
