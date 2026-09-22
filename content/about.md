@@ -16,6 +16,16 @@ Throughout my career, I have always valued personal development. I earned Bachel
 I am happily married to my wife, Jessica, and together we have three wonderful boys, Logan, Preston, and Brendan.
 
 ## Things I’ve done…
+-----
+
+![Akeneo](/img/icons/akeneo.png)
+
+### Akeneo
+
+> #### Business Consultant
+> 
+> September 2026 - Present
+
 
 -----
 
@@ -25,7 +35,7 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 
 > #### Solutions Engineer — Product Information Management | Data Modeling | Solutions Architecture
 > 
-> March 2025 - Present
+> March 2025 - August 2026
 >
 > Serve as Ntara’s designated Akeneo Subject Matter Expert within the Akeneo SME Partner Program. Lead end-to-end Akeneo and Inriver PIM implementations across multiple industries, managing full project lifecycle from discovery through go-live. Responsibilities include requirements and use case gathering, data modeling, current and future state systems architecture, inbound and outbound integration definition, and workflow and product lifecycle design. Akeneo SDM Fundamentals certified, with experience configuring Supplier Data Manager to demonstrate supplier onboarding and data governance workflows for client use cases. Support clients from pre-sales through implementation and ongoing maintenance, including platform selection discussions for organizations evaluating PIM solutions.
 > 
