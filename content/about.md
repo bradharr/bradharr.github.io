@@ -24,7 +24,7 @@ I am happily married to my wife, Jessica, and together we have three wonderful b
 
 > #### Business Consultant
 > 
-> September 2026 - Present
+> September 2026 - Present 
 
 
 -----
